@@ -20,10 +20,28 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="20130618105843_insert_default_entries_in_instructions.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="20130618105843_insert_default_entries_in_instructions.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db/migrate/20130618105843_insert_default_entries_in_instructions.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="0" selection-start="18044" selection-end="18044" vertical-scroll-proportion="0.6934931">
+            <state line="27" column="0" selection-start="18044" selection-end="18044" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="6" selection-start="61" selection-end="61" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="30" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -48,8 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/db/migrate/20130618091323_insert_default_enrties_in_users_roles_users.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20130618091701_insert_default_entries_in_users_roles_users.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20130618092036_insert_default_entries_in_roles_users.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20130618092010_insert_default_entries_in_roles.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20130618085810_insert_default_enrties_in_products.rb" />
@@ -64,6 +80,8 @@
         <option value="$PROJECT_DIR$/db/migrate/20130618103550_insert_default_entries_in_settings.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20130618102652_insert_default_entries_in_pages.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20130618105843_insert_default_entries_in_instructions.rb" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -113,39 +131,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="www.testapp.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.testapp.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.testapp.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="db" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.testapp.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.testapp.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="db" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="migrate" />
+              <option name="myItemId" value="Crucible-standalone-maigrations" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -159,12 +145,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="reference.settings.ide.settings.web.browsers" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="GoToClass.includeJavaFiles" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/app" />
       <recent name="$PROJECT_DIR$/vendors" />
     </key>
@@ -228,7 +215,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34580153" sideWeight="0.66358024" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3519084" sideWeight="0.66358024" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34580153" sideWeight="0.32561728" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -296,16 +283,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/db/migrate/20130618073159_create_table_wgll_users_reports.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="29" selection-start="240" selection-end="240" vertical-scroll-proportion="0.16728625" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20130618073149_create_table_wgll_users_answers.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="52" selection-start="134" selection-end="134" vertical-scroll-proportion="0.080213904" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20130618073119_create_table_wgll_assessment_projects_job_roles.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="3" selection-start="855" selection-end="855" vertical-scroll-proportion="0.60301507" />
@@ -323,9 +300,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/temp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="13505" selection-end="17095" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="11" column="0" selection-start="13505" selection-end="17095" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20130618085810_insert_default_enrties_in_products.rb">
@@ -335,23 +310,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20130618092010_insert_default_entries_in_roles.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="58" selection-start="750" selection-end="750" vertical-scroll-proportion="0.47738692">
-          <folding />
-        </state>
+        <state line="19" column="58" selection-start="750" selection-end="750" vertical-scroll-proportion="0.47738692" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20130618094047_insert_default_entries_in_users.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="551" selection-end="551" vertical-scroll-proportion="0.42713568">
-          <folding />
-        </state>
+        <state line="17" column="0" selection-start="551" selection-end="551" vertical-scroll-proportion="0.42713568" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20130618094053_insert_default_entries_in_roles_users.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="24" selection-start="187" selection-end="187" vertical-scroll-proportion="0.10050251">
-          <folding />
-        </state>
+        <state line="4" column="24" selection-start="187" selection-end="187" vertical-scroll-proportion="0.10050251" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20130618095122_insert_default_entries_in_levels.rb">
@@ -361,23 +330,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20130618100038_insert_default_entries_in_targets.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="3" selection-start="348" selection-end="348" vertical-scroll-proportion="0.20100503">
-          <folding />
-        </state>
+        <state line="8" column="3" selection-start="348" selection-end="348" vertical-scroll-proportion="0.20100503" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20130618104436_insert_default_entries_in_email_templates.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="31" selection-start="867" selection-end="867" vertical-scroll-proportion="0.2788104">
-          <folding />
-        </state>
+        <state line="10" column="31" selection-start="867" selection-end="867" vertical-scroll-proportion="0.2788104" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20130618103550_insert_default_entries_in_settings.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="39" selection-start="499" selection-end="499" vertical-scroll-proportion="0.34759358">
-          <folding />
-        </state>
+        <state line="13" column="39" selection-start="499" selection-end="499" vertical-scroll-proportion="0.34759358" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20130618102652_insert_default_entries_in_pages.rb">
@@ -389,7 +352,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20130618105843_insert_default_entries_in_instructions.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="18044" selection-end="18044" vertical-scroll-proportion="0.6934931">
+        <state line="27" column="0" selection-start="18044" selection-end="18044" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="6" selection-start="61" selection-end="61" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="30" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
