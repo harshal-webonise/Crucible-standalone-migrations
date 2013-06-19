@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4deac1ed-5352-402b-bb81-5ece4f1ba8c5" name="Default" comment="" />
-    <ignored path="www.testapp.com.iws" />
+    <list default="true" id="130bdf64-32e8-4478-9ea6-41845fd8d023" name="Default" comment="" />
+    <ignored path="Crucible.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,22 +17,30 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="20130618105843_insert_default_entries_in_instructions.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/db/migrate/20130618105843_insert_default_entries_in_instructions.rb">
+      <file leaf-file-name="AppController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Controller/AppController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="0" selection-start="18044" selection-end="18044" vertical-scroll-proportion="0.6934931">
-              <folding />
+            <state line="1004" column="52" selection-start="36733" selection-end="36733" vertical-scroll-proportion="0.5833333">
+              <folding>
+                <element signature="n#browser_detection#0;n#AppController#0;n#!!top" expanded="false" />
+                <element signature="n#os_detection#0;n#AppController#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20130618102652_insert_default_entries_in_pages.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/migrate/20130618102652_insert_default_entries_in_pages.rb">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="75" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="61" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -45,26 +53,45 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="sprint13" />
+      </map>
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/db/migrate/20130618091323_insert_default_enrties_in_users_roles_users.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20130618091701_insert_default_entries_in_users_roles_users.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20130618092036_insert_default_entries_in_roles_users.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20130618092010_insert_default_entries_in_roles.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20130618085810_insert_default_enrties_in_products.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20130618094053_insert_default_entries_in_roles_users.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20130618094047_insert_default_entries_in_users.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20130618095122_insert_default_entries_in_levels.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20130618095944_insert_default_enrties_in_targets.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20130618100038_insert_default_entries_in_targets.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20130618100321_insert_default_entries_in_instructions.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20130618104436_insert_default_entries_in_email_templates.rb" />
-        <option value="$PROJECT_DIR$/temp" />
-        <option value="$PROJECT_DIR$/db/migrate/20130618103550_insert_default_entries_in_settings.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20130618102652_insert_default_entries_in_pages.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20130618105843_insert_default_entries_in_instructions.rb" />
+        <option value="$PROJECT_DIR$/app/Config/core.php" />
+        <option value="$PROJECT_DIR$/app/Plugin/CHANGELOG.md" />
+        <option value="$PROJECT_DIR$/app/Issue_resolution.md" />
+        <option value="$PROJECT_DIR$/app/Config/database.php" />
+        <option value="$PROJECT_DIR$/app/live_deployment_checklist.md" />
+        <option value="$PROJECT_DIR$/CHANGELOG.md" />
+        <option value="$PROJECT_DIR$/app/Plugin/Products/Controller/ProductsController.php" />
+        <option value="$PROJECT_DIR$/app/Console/Command/UpdateBehavioralJobRolesTargetShell.php" />
+        <option value="$PROJECT_DIR$/app/webroot/robots.txt" />
+        <option value="$PROJECT_DIR$/app/Plugin/Organisations/Model/Organisation.php" />
+        <option value="$USER_HOME$/Downloads/crucible_live_db_for_report_06-12-2013-05_43_02 (1).sql" />
+        <option value="$USER_HOME$/ordered_table.sql" />
+        <option value="$PROJECT_DIR$/app/Plugin/Competencies/Controller/ClustersController.php" />
+        <option value="$PROJECT_DIR$/app/Plugin/Organisations/Controller/OrganisationsController.php" />
+        <option value="$PROJECT_DIR$/app/Plugin/Organisations/View/Organisations/index.ctp" />
+        <option value="$PROJECT_DIR$/app/Plugin/Users/View/Users/login.ctp" />
       </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <option name="servers">
+      <server host="tdt.webonise.com" name="tdt.webonise.com" />
+      <server host="crucible.webonise.com" name="crucible.webonise.com" />
+      <server host="crpt.webonise.com" name="crpt.webonise.com" use_path_mappings="true">
+        <path_mappings>
+          <path_mapping local_path="$PROJECT_DIR$/app/webroot" remote_path="$PROJECT_DIR$/../Crucible-CRT/app/webroot" />
+        </path_mappings>
+      </server>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
@@ -99,96 +126,121 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="www.testapp.com" />
+              <option name="myItemId" value="Crucible" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="www.testapp.com" />
+              <option name="myItemId" value="Crucible" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="www.testapp.com" />
+              <option name="myItemId" value="Crucible" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="www.testapp.com" />
+              <option name="myItemId" value="Crucible" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="www.testapp.com" />
+              <option name="myItemId" value="Crucible" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="db" />
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="www.testapp.com" />
+              <option name="myItemId" value="Crucible" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="www.testapp.com" />
+              <option name="myItemId" value="Crucible" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="db" />
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="migrate" />
+              <option name="myItemId" value="Plugin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Crucible" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Crucible" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="71" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="94" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="reference.settings.ide.settings.web.browsers" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="68" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="recentsLimit" value="5" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Crucible-CRT" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="98" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1005" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="1002" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="98" />
     <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="94" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="options.lastSelected" value="preferences.keymap" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app" />
-      <recent name="$PROJECT_DIR$/vendors" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/app/View/Htmls" />
+      <recent name="$PROJECT_DIR$/app/Console/Command/Task" />
+      <recent name="$PROJECT_DIR$/app/Console/Command" />
+      <recent name="$PROJECT_DIR$/app/Plugin/JobRoles/View/JobRoles" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
-      <module name="" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
     <list size="0" />
@@ -214,33 +266,54 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4deac1ed-5352-402b-bb81-5ece4f1ba8c5" name="Default" comment="" />
-      <created>1365411845425</created>
-      <updated>1365411845425</updated>
+      <changelist id="130bdf64-32e8-4478-9ea6-41845fd8d023" name="Default" comment="" />
+      <created>1364806688915</created>
+      <updated>1364806688915</updated>
     </task>
     <servers />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="70" width="1360" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34580153" sideWeight="0.66358024" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34580153" sideWeight="0.32561728" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295107" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26864535" sideWeight="0.21955128" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25114155" sideWeight="0.9551282" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4563492" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2526636" sideWeight="0.42628205" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6693122" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -293,103 +366,109 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Plugin/Cms/Controller/SettingsController.php</url>
+          <line>114</line>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="271" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/db/migrate/20130618073159_create_table_wgll_users_reports.rb">
+    <entry file="file://$PROJECT_DIR$/app/Plugin/Organisations/Config/Migration/1368613442_add_dummy_data_in_table_targets.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="29" selection-start="240" selection-end="240" vertical-scroll-proportion="0.16728625" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="11.25" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20130618073149_create_table_wgll_users_answers.rb">
+    <entry file="file://$PROJECT_DIR$/app/Plugin/Organisations/Config/Migration/1369127416_add_a_column_class_in_targets_table_with_default_entries.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="52" selection-start="134" selection-end="134" vertical-scroll-proportion="0.080213904" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.3519164" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20130618073119_create_table_wgll_assessment_projects_job_roles.rb">
+    <entry file="file://$PROJECT_DIR$/app/Plugin/Products/Config/Migration/1349759499_creating_table_products.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="3" selection-start="855" selection-end="855" vertical-scroll-proportion="0.60301507" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="61.625" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20130618073049_create_table_wgll_assessments.rb">
+    <entry file="file://$PROJECT_DIR$/app/Plugin/Wgll/Config/Migration/1358954229_make_assessments_entry_and_add_field_migration_in_wgll_assessments_table.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="3" selection-start="489" selection-end="489" vertical-scroll-proportion="0.48387095" />
+        <state line="61" column="68" selection-start="1446" selection-end="1460" vertical-scroll-proportion="0.28195488" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20130614094237_create_table_products.rb">
+    <entry file="file://$PROJECT_DIR$/app/Plugin/Products/Config/Migration/1350712261_add_field_logo_background_color_usage_limit.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="56" selection-start="588" selection-end="588" vertical-scroll-proportion="0.0" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.1428572" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/temp">
+    <entry file="file://$PROJECT_DIR$/app/Plugin/Users/Config/Migration/1349761997_create_admin_entry_in_users_and_roles_users.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="13505" selection-end="17095" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="21.208334" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Plugin/Levels/Config/Migration/1350727530_add_again_the_levels.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="46.208332" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Plugin/EmailTemplates/Config/Migration/1364829022_insert_initial_data_in_email_templates_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.64935064" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Plugin/Levels/Config/Migration/1349760706_levels_entry_in_levels_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="38" selection-start="1180" selection-end="1180" vertical-scroll-proportion="-7.5" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Plugin/Users/View/Users/login.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="23" selection-start="626" selection-end="626" vertical-scroll-proportion="-6.875" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Plugin/Managers/Controller/ReviewsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="315" column="18" selection-start="13983" selection-end="13983" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20130618085810_insert_default_enrties_in_products.rb">
+    <entry file="file://$PROJECT_DIR$/app/Plugin/Managers/Controller/ManagerAnsweredStatementsController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="7" selection-start="3307" selection-end="3307" vertical-scroll-proportion="0.38527396" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20130618092010_insert_default_entries_in_roles.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="58" selection-start="750" selection-end="750" vertical-scroll-proportion="0.47738692">
+        <state line="289" column="45" selection-start="11096" selection-end="11096" vertical-scroll-proportion="-0.625">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20130618094047_insert_default_entries_in_users.rb">
+    <entry file="file://$PROJECT_DIR$/app/Plugin/MailQueues/Controller/MailQueuesController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="551" selection-end="551" vertical-scroll-proportion="0.42713568">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="30.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20130618094053_insert_default_entries_in_roles_users.rb">
+    <entry file="file://$PROJECT_DIR$/app/Plugin/Trackings/Controller/TrackingsController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="24" selection-start="187" selection-end="187" vertical-scroll-proportion="0.10050251">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="7.5">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20130618095122_insert_default_entries_in_levels.rb">
+    <entry file="file://$PROJECT_DIR$/app/Controller/AppController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="61" selection-end="631" vertical-scroll-proportion="0.025125628" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20130618100038_insert_default_entries_in_targets.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="3" selection-start="348" selection-end="348" vertical-scroll-proportion="0.20100503">
-          <folding />
+        <state line="1004" column="52" selection-start="36733" selection-end="36733" vertical-scroll-proportion="0.5833333">
+          <folding>
+            <element signature="n#browser_detection#0;n#AppController#0;n#!!top" expanded="false" />
+            <element signature="n#os_detection#0;n#AppController#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20130618104436_insert_default_entries_in_email_templates.rb">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="31" selection-start="867" selection-end="867" vertical-scroll-proportion="0.2788104">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20130618103550_insert_default_entries_in_settings.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="39" selection-start="499" selection-end="499" vertical-scroll-proportion="0.34759358">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20130618102652_insert_default_entries_in_pages.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="75" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20130618105843_insert_default_entries_in_instructions.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="18044" selection-end="18044" vertical-scroll-proportion="0.6934931">
+        <state line="0" column="0" selection-start="0" selection-end="61" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
